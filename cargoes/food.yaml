@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: FO
 available: false
 classes: 32
 colour: 1
 id: 2
-label: NEWC
-longName: 'new cargo #2'
-name: 'New Cargo #2'
+label: FOOD
+longName: food
+name: Food
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 12336
 sprite:
-  filename: cargoes/new-cargo-2.png
+  filename: cargoes/food.png
   left: 0
   top: 0
-unitName: Items
+unitName: Crates
 weight: 16
