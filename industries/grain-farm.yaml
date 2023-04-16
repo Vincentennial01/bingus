@@ -1,16 +1,45 @@
 available: true
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- FERT
+cargoProduction:
+- CORN
+- WHEA
 colour: 1
 fundCostMultiplier: 100
 id: 0
 layout:
-- - - -1
+- - - 1
 name: Grain Farm
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
-prospectChance: 75
-tiles: []
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/grain-farm/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/grain-farm/1.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/grain-farm/3.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      id: 0
+      left: -31
+      top: 0
 type: primary
