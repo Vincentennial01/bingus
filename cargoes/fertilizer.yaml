@@ -1,0 +1,17 @@
+abbreviation: FE
+available: false
+classes: 32
+colour: 1
+id: 3
+label: FERT
+longName: fertilizer
+name: Fertilizer
+penaltyLength: 223
+penaltyLowerBound: 32
+price: 1645
+sprite:
+  filename: cargoes/fertilizer.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
