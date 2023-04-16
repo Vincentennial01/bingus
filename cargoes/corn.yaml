@@ -6,8 +6,8 @@ id: 1
 label: CORN
 longName: corn
 name: Corn
-penaltyLength: 247
-penaltyLowerBound: 8
+penaltyLength: 243
+penaltyLowerBound: 12
 price: 4112
 sprite:
   filename: cargoes/corn.png
