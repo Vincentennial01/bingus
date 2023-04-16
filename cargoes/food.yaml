@@ -6,7 +6,7 @@ id: 2
 label: FOOD
 longName: food
 name: Food
-penaltyLength: 255
+penaltyLength: 36
 penaltyLowerBound: 0
 price: 12336
 sprite:
