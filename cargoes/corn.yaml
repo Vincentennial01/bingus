@@ -1,13 +1,13 @@
 abbreviation: CO
 available: false
 classes: 16
-colour: 1
+colour: 66
 id: 1
 label: CORN
 longName: corn
 name: Corn
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 247
+penaltyLowerBound: 8
 price: 4112
 sprite:
   filename: cargoes/corn.png
