@@ -13,5 +13,5 @@ sprite:
   filename: cargoes/corn.png
   left: 0
   top: 0
-unitName: Items
+unitName: Litres
 weight: 16
